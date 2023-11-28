@@ -21,19 +21,3 @@ The purpose of this analysis is to create a machine learning model to help deter
 ## Summarize
 
 My original deep learning model ended up with a 73.85% accuracy with a loss of 0.5353. 
-
-
-## Grading (DELETE BEFORE SUBMITTING)
-
-
-* Format images in the report so that they display correction (2 points)
-* Describe how you could use a different model to solve the same problem, and explain why you would use that model (6 points)
-* Export results to an HDF5 file (2 points)
-* repeat the preprocessing steps in a new Jupyter notebook? (like not Google Colab?) (4 points)
-* export HDF5 of optimizaed model. (1 point)
-
-
-1. upload what you have so far to GitHub
-2. Make sure you are exporting results to an HDF5 files
-3. describe how you could use a different model to solve the same problem and explain why you would use that model (google)
-4. Do a ReadMe? 
