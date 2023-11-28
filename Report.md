@@ -21,3 +21,9 @@ The purpose of this analysis is to create a machine learning model to help deter
 ## Summarize
 
 My original deep learning model ended up with a 73.85% accuracy with a loss of 0.5353. 
+
+### Further Recommendation
+
+Another computer model that could be used would be the random forest model. One benefit of this model is that it weighs all the different factors in the model and bases the prediction on the average of all the predictions. 
+
+
